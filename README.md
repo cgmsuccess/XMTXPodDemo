@@ -1,4 +1,5 @@
 # XMTXPodDemo
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/cgmsuccess@163.com/XMTXPodDemo.svg?style=flat)](https://travis-ci.org/cgmsuccess@163.com/XMTXPodDemo)
 [![Version](https://img.shields.io/cocoapods/v/XMTXPodDemo.svg?style=flat)](https://cocoapods.org/pods/XMTXPodDemo)
@@ -27,3 +28,6 @@ cgmsuccess@163.com, cgmsuccess@163.com
 ## License
 
 XMTXPodDemo is available under the MIT license. See the LICENSE file for more info.
+=======
+这是一个制作cocoapods 库的练习
+>>>>>>> ce3d580ed96e1f091d448e79ad48edb906ffa668
