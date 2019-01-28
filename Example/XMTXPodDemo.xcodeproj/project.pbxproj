@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		079116A724704EEAE3F88279 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		079116A724704EEAE3F88279 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		197BB8DC9EE33620BA83D747 /* Pods-XMTXPodDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMTXPodDemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-XMTXPodDemo_Tests/Pods-XMTXPodDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		28C87AA7AB3207A206464120 /* Pods-XMTXPodDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMTXPodDemo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMTXPodDemo_Tests/Pods-XMTXPodDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		34BE62BE4AAB79A24D81833A /* XMTXPodDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XMTXPodDemo.podspec; path = ../XMTXPodDemo.podspec; sourceTree = "<group>"; };
-		52A73EE856D33FD44FA59FF7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		34BE62BE4AAB79A24D81833A /* XMTXPodDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XMTXPodDemo.podspec; path = ../XMTXPodDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		52A73EE856D33FD44FA59FF7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* XMTXPodDemo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMTXPodDemo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };

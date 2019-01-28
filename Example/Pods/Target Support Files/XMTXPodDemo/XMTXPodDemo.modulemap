@@ -1,0 +1,6 @@
+framework module XMTXPodDemo {
+  umbrella header "XMTXPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
